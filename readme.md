@@ -1,9 +1,7 @@
-# 🧠 Chat With CSV – AI-Powered Data Exploration Tool  
-### 📍 DataSense AI Project Challenge #3
+# DataSense AI Project Challenge #3: Chat With CSV – AI-Powered Data Exploration Tool  
 
----
 
-## 🚀 Project Overview
+## Project Overview
 
 Welcome to **Challenge #3** of the **DataSense AI Project Challenge** Series!
 
@@ -24,7 +22,7 @@ Build a **production-ready FastAPI app**, deploy it to **Vercel**, and allow use
 
 ---
 
-## 🧠 Who Can Participate
+##  Who Can Participate
 
 This project is open to:
 - Data science and ML learners (beginner to advanced)
@@ -61,7 +59,7 @@ This project is open to:
 
 ---
 
-## ✨ Sample Use Cases
+## Sample Use Cases
 
 > “Show me top 5 products with highest sales volume”  
 > “Plot a line chart of revenue by month”  
